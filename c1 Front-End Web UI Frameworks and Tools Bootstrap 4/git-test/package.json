@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a directory to learn git and nodejs",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshan527/Full-Stack-Web-and-Multiplatform-Mobile-App-Development.git"
+  },
+  "author": "Darshankumar Hosamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshan527/Full-Stack-Web-and-Multiplatform-Mobile-App-Development/issues"
+  },
+  "homepage": "https://github.com/darshan527/Full-Stack-Web-and-Multiplatform-Mobile-App-Development#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
