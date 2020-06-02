@@ -23,8 +23,15 @@
     color: floralwhite;
 }
 
-.address {
+address {
     margin: 0px auto;
     font-size: 80%;
     color: #0f0f0f;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark {
+    background-color: #512da8;
 }
